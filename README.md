@@ -2,6 +2,7 @@
 This repository consists of Verilog programs that I wrote in order to learn concepts of Digital Design
 
 ***
+<details>
 <summary>
   D Flip Flop - Negative Edge Triggered and Asynchronous Reset
 </summary>
@@ -17,10 +18,12 @@ Output Waveform:
 
 ![image](https://github.com/user-attachments/assets/579bd2d7-c100-4d96-a734-d05f28e51f40)
 
+</details>
 ***
 
 ***
-<summary>
+<details>
+  <summary>
   Clock Frequency - Divide by 3
 </summary>
 
@@ -33,10 +36,11 @@ Generated Schematic:
 
 Output Waveform:
 
-
+</details>
 ***
 
 ***
+<details>
 <summary>
   Clock Frequency - Divide by 5
 </summary>
@@ -50,10 +54,11 @@ Generated Schematic:
 
 Output Waveform:
 
-
+</details>
 ***
 
 ***
+<details>
 <summary>
   Clock Frequency - Divide by 2
 </summary>
@@ -65,7 +70,10 @@ Generated Schematic:
 
 ![image](https://github.com/user-attachments/assets/83de265d-a070-43c0-9ea0-5634c5fbf708)
 
+Output Waveform:
 
+</details>
+***
 Output Waveform:
 
 
